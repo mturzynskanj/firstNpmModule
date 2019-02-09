@@ -1,4 +1,9 @@
 {
     "name": "@mturzynska/tiny",
-    "version":"1.0.0"
+    "version":"1.0.0",
+    "license": "MIT",
+    "repository": "mturzynskanj/firstNpmModule",
+    "main":"index.js"
+    
+    
 }
